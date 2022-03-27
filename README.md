@@ -35,4 +35,26 @@ Python is a dynamically typed language. When declaring a variable in Python, you
 ### String Formatting
 ### List, Set, and String Operation
 ### Operator, Operands and Expression
+Operators are special symbols in Python that carry out arithmetic or logical computation. The value that the operator operates on is called the operand. Expression is a combination of operators and operands that is interpreted to produce some other value. Python divides the operators in the following groups:
+- Arithmetic operators
+- Assignment operators
+- Comparison operators
+- Logical operators
+- Identity operators
+- Membership operators
+- Bitwise operators
+
 ### Conditional Expression
+#### if condition
+- In python the expression is placed after the if and the decision is based on the truth value of the expression
+- If the expression evaluates to True, the statement block will be executed
+- If the expression evaluates to false, then the next block (after the if) will be executed
+#### else condition
+- Can be combined with if statement, as a way out when the IF condition is false
+- Else is optional and singular
+#### elif condition
+- Elif is short for else if
+- Elif is an alternative to nested if
+- An IF statement can be executed for one or more elif statements (optional and not restricted)
+
+
