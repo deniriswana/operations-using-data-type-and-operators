@@ -1,7 +1,7 @@
 # Operations Using Data Type and Operators in Python
-Perform data and data type operations.
-Determine the sequence of execution based on operator precedence.
-Select operators to achive the intended results
+- Perform data and data type operations.
+- Determine the sequence of execution based on operator precedence.
+- Select operators to achive the intended results
 
 ## Objective Statement
 - Data Type Conversion
@@ -15,7 +15,7 @@ Select operators to achive the intended results
 - Conditional Expression
 
 ## Challange
-- 
+- Requires a high understanding of the material
 - Requires high accuracy to input data
 
 ## Expected Outcome
